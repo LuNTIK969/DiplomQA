@@ -14,9 +14,9 @@
 
 ## ***Documentation***
 - [Задание](https://github.com/netology-code/qa-diploma)
-- [План автоматизации тестирования]()
-- [Отчет по итогам тестирования]()
-- [Отчет по итогам автоматизации]()
+- [План автоматизации тестирования](https://github.com/LuNTIK969/DiplomQA/blob/main/documentation/Plan.md)
+- [Отчет по итогам тестирования](https://github.com/LuNTIK969/DiplomQA/blob/main/documentation/Report.md)
+- [Общий отчет по итогам автоматизации](https://github.com/LuNTIK969/DiplomQA/blob/main/documentation/Summary.md)
 
 ***ПРЕДУСЛОВИЯ***
 
