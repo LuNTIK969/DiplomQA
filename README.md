@@ -24,7 +24,8 @@
 
 ***2.*** На ПК должен быть установлен [IntelliJ IDEA](https://www.jetbrains.com/ru-ru/idea/). В случае его отсутствия, установите согласно [инструкции](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md).
 
-***2.*** Открыт в браузере [репозиторий]() GitHub.
+***3.*** Открыт в браузере [репозиторий](https://github.com/LuNTIK969/DiplomQA) GitHub.
+***4.*** Используется Google Chrome версии 115 и старше.
 
 ## ***ИНСТРУКЦИЯ***
 
