@@ -14,15 +14,15 @@
 
 ### ***Отчет Allure:***
 
-![Allure Report - 1]()
+![Allure Report - 1](https://github.com/LuNTIK969/DiplomQA/assets/119416858/b6931251-9bf4-4a76-824b-22108119f4cb)
 
 ### ***Отчет Gradle:***
 
-![Gradle ]()
+![Gradle ](https://github.com/LuNTIK969/DiplomQA/assets/119416858/e1fbc072-9c31-4f70-9791-dbc0cf327086)
 
 ### ***Общие рекомендации:***
 
-***1.*** Перечень выявленных дефектов - [Issues]().
+***1.*** Перечень выявленных дефектов - [Issues](https://github.com/LuNTIK969/DiplomQA/issues).
 
 ***2.*** Требуется внести корректировку в орфографию слова "Марракэш", так как правильное написание - "Марракеш".
 
