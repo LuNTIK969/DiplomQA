@@ -4,8 +4,6 @@ import lombok.Value;
 
 public class DataHandler {
 
-    // private static DataBuilder DataBuilder = new DataBuilder();
-
     @Value
     public static class CardInfo {
         String cardNumber;
